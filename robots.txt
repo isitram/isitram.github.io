@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isitram.github.io/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/app/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/assets/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/css/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/data/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/includes/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/item/sitemap.isitram.gz
+Sitemap: https://isitram.github.io/src/sitemap.isitram.gz
